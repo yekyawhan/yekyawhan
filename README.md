@@ -8,17 +8,13 @@
   <img src="./y3kh-banner.svg" alt="Y3KH Labs Banner" width="100%">
 </p>
 
-<h1 align="center">
-Ye Kyaw Han (Y3KH)
-</h1>
-
 <p align="center">
 <b>Infrastructure Security Engineer</b><br>
 Security Automation • Detection Engineering • AI Systems
 </p>
 
 <p align="center">
-Founder of <b>Y3KH Labs</b> — Building practical security automation,
+Building practical security automation,
 AI-powered infrastructure, and open-source engineering solutions.
 </p>
 
