@@ -1,8 +1,8 @@
-# Hi, I'm Ko Ye (Y3KH) 👋
+# Ko Ye (Y3KH) 👋
 
-### Cyber Security Expert | SOC Power Ranger | Automation Specialist
+### Security Engineering & Automation
 
-🛡️ **Securing infrastructure, automating SOCs, and building autonomous agents.**
+🛠️ **Infrastructure, SOC Automation, and AI Orchestration.**
 
 ---
 
@@ -24,6 +24,14 @@
 
 ---
 
+### 🔐 Knowledge & Focus
+
+- 🛡️ Developing robust SOC automation workflows.
+- 💡 Experimenting with AI agents for infrastructure defense.
+- 🔗 *[Add links to public threat intel, notes, or playbooks here]*
+
+---
+
 ### 📬 Connect
 
 [![Twitter](https://img.shields.io/twitter/follow/yekyawhan?style=flat&logo=twitter&color=1DA1F2)](https://twitter.com/yekyawhan)
@@ -42,4 +50,4 @@
 
 ### 🐍 Contribution
 
-![Snake GIF](https://github.com/yekyawhan/yekyawhan/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/yekyawhan/yekyawhan/raw/output/github-contribution-grid-snake.gif)
