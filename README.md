@@ -1,176 +1,209 @@
 <!-- ========================================================= -->
-
-<!--                  GitHub Profile README                     -->
-
-<!--                 © Ye Kyaw Han (Y3KH)                       -->
-
+<!--                  GitHub Profile README                    -->
+<!--                 © Ye Kyaw Han                             -->
+<!--                    Y3KH Labs                              -->
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://i.imgur.com/F6QnHiE.png" alt="Y3KH Banner" width="100%">
+  <img src="./y3kh-banner.svg" alt="Y3KH Labs Banner" width="100%">
 </p>
 
-<h1 align="center">Ye Kyaw Han (Y3KH)</h1>
+<h1 align="center">
+Ye Kyaw Han (Y3KH)
+</h1>
 
 <p align="center">
 <b>Infrastructure Security Engineer</b><br>
-Detection Engineering • Security Automation • AI Systems
+Security Automation • Detection Engineering • AI Systems
 </p>
 
 <p align="center">
-Building practical open-source solutions for modern infrastructure, autonomous security operations, and AI-powered automation.
+Founder of <b>Y3KH Labs</b> — Building practical security automation,
+AI-powered infrastructure, and open-source engineering solutions.
 </p>
+
 
 <p align="center">
 
 <a href="https://github.com/yekyawhan">
-<img src="https://komarev.com/ghpvc/?username=yekyawhan&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=yekyawhan&label=Profile%20Views&color=00E5FF&style=flat"/>
 </a>
 
 <a href="https://github.com/yekyawhan?tab=followers">
-<img src="https://img.shields.io/github/followers/yekyawhan?style=flat&logo=github"/>
+<img src="https://img.shields.io/github/followers/yekyawhan?label=Followers&style=flat&logo=github"/>
 </a>
 
-<img src="https://img.shields.io/badge/Open%20Source-❤-red"/>
+<img src="https://img.shields.io/badge/Y3KH%20Labs-Security%20Automation-00E5FF"/>
 
 </p>
 
----
-
-# About
-
-I design and build secure infrastructure with a strong focus on automation, detection engineering, endpoint security, and self-hosted platforms.
-
-My goal is to reduce operational complexity by combining infrastructure engineering, security automation, and AI into practical open-source projects.
 
 ---
 
-# Current Focus
+# 🧬 About Y3KH Labs
 
-* 🤖 Autonomous AI Infrastructure
-* 🛡️ Security Operations (SOC)
-* ⚡ Security Automation
-* 🔍 Detection Engineering
-* 💻 Enterprise Home Labs
-* ☁️ Self-Hosted Infrastructure
-* 🚀 Open Source Projects
+Y3KH Labs is an independent security engineering laboratory focused on building practical solutions for modern infrastructure.
 
----
+My work combines:
 
-# Featured Projects
+- 🛡️ Security Operations
+- 🔍 Detection Engineering
+- ⚡ Security Automation
+- 🤖 AI Infrastructure Agents
+- 🖥️ Self-Hosted Enterprise Labs
+- ☁️ DevSecOps Practices
 
-## 🤖 Laypyay
-
-An autonomous AI platform for infrastructure management, workflow orchestration, and operational automation.
 
 ---
 
-## 🛡️ Defender Guard Active Response
+# 🚀 Current Focus
 
-Advanced Wazuh Active Response framework featuring:
+- 🤖 Autonomous AI Infrastructure
+- 🛡️ SOC Automation Workflows
+- 🔍 Detection Engineering & Threat Monitoring
+- 🖥️ Secure Virtualization Platforms
+- ⚙️ Infrastructure Automation
+- 🔐 Endpoint Security Engineering
 
-* USB Device Control
-* Registry Monitoring
-* Sysmon Integration
-* Automated Incident Response
-* Endpoint Protection
+
+---
+
+# ⭐ Featured Projects
+
+
+## 🤖 Laypyay AI
+
+Autonomous AI platform for infrastructure management,
+workflow orchestration, and intelligent automation.
+
+---
+
+## 🛡️ Defender Guard AR
+
+Enterprise-focused Wazuh Active Response framework.
+
+Capabilities:
+
+- USB Device Control
+- Registry Monitoring
+- Sysmon Integration
+- Automated Response Actions
+- Endpoint Protection
+
 
 ---
 
 ## 🔐 USB Guardian
 
-Enterprise-grade USB monitoring and control built for Windows endpoints using Wazuh Active Response.
+Windows endpoint security solution for monitoring and controlling removable devices through security automation.
+
 
 ---
 
 ## ⚙️ Infrastructure Automation
 
-Automation projects covering:
+Engineering tools and automation for:
 
-* Proxmox VE
-* Docker
-* OpenVPN
-* pfSense
-* Nginx Proxy Manager
-* Linux Infrastructure
+- Proxmox VE
+- Docker Platforms
+- OpenVPN
+- pfSense
+- Nginx Proxy Manager
+- Linux Infrastructure
+
 
 ---
 
 ## 📚 Detection Engineering
 
-Detection rules, SOC playbooks, Active Response workflows, and security automation content.
+Security research and automation content:
+
+- Detection Rules
+- SOC Playbooks
+- Active Response Workflows
+- Security Testing
+
 
 ---
 
-# Enterprise Home Lab
+# 🖥️ Enterprise Home Lab
 
-My personal lab is used to develop, test, and validate production-like infrastructure.
+A production-inspired environment used for developing,
+testing, and validating security automation solutions.
 
-### Core Technologies
 
-* Proxmox VE Cluster
-* Ceph Storage
-* Docker
-* Wazuh SIEM
-* Sysmon
-* OpenVPN
-* pfSense
-* Nginx Proxy Manager
-* Linux Servers
-* AI Agents
+## Core Infrastructure
+
+- Proxmox VE Cluster
+- Ceph Storage
+- Docker Ecosystem
+- Wazuh SIEM
+- Sysmon
+- pfSense Firewall
+- VPN Infrastructure
+- Linux Servers
+- AI Agent Platforms
+
 
 ---
 
-# Tech Stack
+# 🧰 Technology Stack
 
-### Languages
+
+## Development
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=python,bash,powershell,nodejs"/>
-
 </p>
 
-### Infrastructure
+
+## Infrastructure
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=linux,docker,git,github"/>
-
 </p>
 
-### Security
 
-* Wazuh
-* Sysmon
-* Elastic Stack
-* Detection Engineering
-* Active Response Development
-* Endpoint Security
+## Security Engineering
+
+- Wazuh
+- Sysmon
+- Elastic Stack
+- Detection Engineering
+- Active Response
+- Endpoint Security
+- SOC Automation
+
 
 ---
 
-# Philosophy
+# 🧠 Engineering Philosophy
 
-> Build once.
+
+> Build reliable systems.  
 >
-> Automate everything.
+> Automate repetitive work.  
 >
-> Secure by default.
+> Secure everything by design.  
 >
 > Continuously improve.
 
+
 ---
 
-# GitHub Statistics
+# 📊 GitHub Analytics
+
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yekyawhan&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=yekyawhan&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yekyawhan&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=yekyawhan&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
+
 
 <p align="center">
 
@@ -178,48 +211,56 @@ My personal lab is used to develop, test, and validate production-like infrastru
 
 </p>
 
+
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yekyawhan&theme=tokyo-night"/>
 
 </p>
 
----
-
-# Open Source Interests
-
-* Infrastructure Automation
-* Security Engineering
-* Detection Engineering
-* AI Agents
-* SOC Automation
-* Endpoint Protection
-* Home Lab Architecture
-* Linux
-* DevSecOps
 
 ---
 
-# Connect
+# 🌐 Open Source Interests
 
-📧 **Email**
+- Security Automation
+- Detection Engineering
+- AI Agents
+- Infrastructure Engineering
+- DevSecOps
+- Linux Systems
+- Self-Hosted Platforms
+- Home Lab Architecture
 
-[y3kh.infosec@gmail.com](mailto:y3kh.infosec@gmail.com)
 
-🐙 **GitHub**
+---
+
+# 📡 Connect
+
+
+📧 Email
+
+y3kh.infosec@gmail.com
+
+
+🐙 GitHub
 
 https://github.com/yekyawhan
 
+
 ---
 
 <p align="center">
 
-<i>"Building secure infrastructure through automation."</i>
+<i>
+"Building secure infrastructure through automation."
+</i>
 
 </p>
 
+
 <p align="center">
 
-⭐ Thanks for visiting my profile.
+⭐ Welcome to Y3KH Labs
 
 </p>
