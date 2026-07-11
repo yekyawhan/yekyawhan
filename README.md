@@ -1,3 +1,5 @@
+[![MasterHead](https://i.imgur.com/F6QnHiE.png)](https://github.com/yekyawhan)
+
 # Ko Ye (Y3KH) 👋
 
 ### Security Engineering & Automation
@@ -45,9 +47,3 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=yekyawhan&label=Views&color=0e75b6&style=flat)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yekyawhan&show_icons=true&theme=radical&hide_border=true)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=yekyawhan&theme=radical&hide_border=true)
-
----
-
-### 🐍 Contribution
-
-![snake gif](https://github.com/yekyawhan/yekyawhan/raw/output/github-contribution-grid-snake.gif)
